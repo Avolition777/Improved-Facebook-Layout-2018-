@@ -3,5 +3,5 @@ Improves the modern Facebook layout by bringing back the old layout (2018) as mu
 
 **Installation**
 
-1. Install [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+1. >Install [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
 2. 
